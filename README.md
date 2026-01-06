@@ -15,5 +15,10 @@ npm install
 node index.js
 ```
 
+## 📸 Captures d'écran
+
+### Comparaison des performances
+![Performance Comparison](image.png)
+
 ---
 *Projet réalisé par Ilyas MICHICH - Janvier 2026*
