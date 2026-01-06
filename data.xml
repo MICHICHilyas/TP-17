@@ -1,0 +1,23 @@
+<root>
+<employee>
+  <id>1</id>
+  <name>yassir</name>
+  <salary>9000</salary>
+  <email>ali@example.com</email>
+  <is_manager>false</is_manager>
+</employee>
+<employee>
+  <id>2</id>
+  <name>Kamal</name>
+  <salary>22000</salary>
+  <email>kamal@example.com</email>
+  <is_manager>true</is_manager>
+</employee>
+<employee>
+  <id>3</id>
+  <name>Amal</name>
+  <salary>23000</salary>
+  <email>amal@example.com</email>
+  <is_manager>true</is_manager>
+</employee>
+</root>

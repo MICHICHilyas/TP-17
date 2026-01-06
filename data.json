@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "yassir",
+      "salary": 9000,
+      "email": "ali@example.com",
+      "is_manager": false
+    },
+    {
+      "id": 2,
+      "name": "Kamal",
+      "salary": 22000,
+      "email": "kamal@example.com",
+      "is_manager": true
+    },
+    {
+      "id": 3,
+      "name": "Amal",
+      "salary": 23000,
+      "email": "amal@example.com",
+      "is_manager": true
+    }
+  ]
+}
